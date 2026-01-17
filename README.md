@@ -1,5 +1,5 @@
 # Sales Analytics and Visualization with Python
-This project utilizes Data Analysis and Visualization using Python to analyze store sales trend with time, identify customer segments and highlight top performing stores.
+This project utilizes Data Analytics and Visualization using Python to analyze store sales trend with time, identify customer segments and highlight top performing stores.
 
 ### Time-Series Visualization of Store Activity
 <img width="1411" height="899" alt="dailyCustomers_40 stores" src="https://github.com/user-attachments/assets/f14ad1a9-3f0c-448b-a945-729a7a6f904a" />
